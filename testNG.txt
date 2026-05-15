@@ -1,0 +1,3 @@
+What is the use of feature keyword in feature file?
+In the feature file, the feature keyword is used for declaring the testcase feature
+
