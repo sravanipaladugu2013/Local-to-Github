@@ -1,0 +1,7 @@
+What is the use of When, Given, And, Then, But?
+The above keywords are used for declaring a feature file testcase steps:
+Given: This keyword uses for pre-condition of your scenario
+When: This keyword uses for action on your scenario
+Then: This keyword uses for validating on your scenario
+And: This Keyword can be used as continuous step for each keyword
+But: This Keyword uses for condition based
