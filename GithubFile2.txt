@@ -1,0 +1,6 @@
+How to Run your feature file?
+For running a feature file we should have 3 files:
+1) feature file - (.feature) file implement the testcase steps
+2) Runner class - (.java) file using @annotation(@runwith from JUnits)
+3) Step definition class - (.java) file, here implementing the logic of your feature file
+
