@@ -1,3 +1,5 @@
 What is the use of feature keyword in feature file?
 In the feature file, the feature keyword is used for declaring the testcase feature
 
+What is Scenario in feature file?
+In feature file, we use Scenario for declaring a scenario of testcase. In a scenario we can able to pass single data
